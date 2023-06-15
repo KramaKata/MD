@@ -6,10 +6,10 @@ This repository is for the Krama Kata Mobile App, which is part of our capstone 
 ## Project Contributor
 The main contributor to this project is a student from the Mobile Development Learning Path:
 
-- Nurkholis Majid - A356DKX4421 - Mobile Development Learning Path
+- [Nurkholis Majid - A356DKX4421 - Mobile Development Learning Path](https://github.com/nrkhlsmjd72)
 
 ## Built With
 This project utilizes the following technologies and libraries:
 
-- Android
-- Kotlin Programming Language
+- [Android](https://www.android.com)
+- [Kotlin Programming Language](https://kotlinlang.org)
