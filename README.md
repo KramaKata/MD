@@ -1,15 +1,15 @@
-#Krama Kata - C23-PC657
+# Krama Kata - C23-PC657
 
-##About The Project
-This repository is for Krama Kata Mobile App for our project in capstone Bangkit Academy 2023. This project is a graduation requirement in the Bangkit Academy 2023 program as a Mobile Developer Learning Path
+## About The Project
+This repository is for the Krama Kata Mobile App, which is part of our capstone project at Bangkit Academy 2023. The project serves as a graduation requirement for the Mobile Developer Learning Path in the Bangkit Academy 2023 program.
 
-##Project Contributor
-In this project, there is one main contributor who is also a student from the Mobile Development Learning Path:
+## Project Contributor
+The main contributor to this project is a student from the Mobile Development Learning Path:
 
-Nurkholis Majid - A356DKX4421 - Mobile Development Learning Path
+- Nurkholis Majid - A356DKX4421 - Mobile Development Learning Path
 
-##Build With
-In this project using several technologies and libraries such as:
+## Built With
+This project utilizes the following technologies and libraries:
 
-Android
-Kotlin Prgramming Language
+- Android
+- Kotlin Programming Language
