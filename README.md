@@ -13,6 +13,7 @@ This project utilizes the following technologies and libraries:
 
 - [Android](https://www.android.com)
 - [Kotlin Programming Language](https://kotlinlang.org)
+- [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 ## Features
 The Krama Kata Mobile App includes the following features:
